@@ -9,3 +9,4 @@ Test repository for collaboration
 3. 吉田鈴  
 4. 菱木響夏  
 5. 白石玲奈  
+6.君和田悠斗
