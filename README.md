@@ -16,4 +16,5 @@ Test repository for collaboration
 1. 住吉多恵留    
 1. 中村眞雨  
 1. 伊澤栞奈  
-1. 吉田鈴
+1. 吉田鈴  
+1. 白石玲奈
