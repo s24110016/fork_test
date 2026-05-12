@@ -8,3 +8,4 @@ Test repository for collaboration
 11. 菱木響夏
 1. 吉田鈴
 1. 白石玲奈
+2. 富田圭吾
